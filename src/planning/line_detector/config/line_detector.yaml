@@ -1,0 +1,8 @@
+yolo_result_topic_name: /darknet_ros/bounding_boxes
+
+target_point_topic_name: /planning/target_point
+
+cmd_vel_topic_name: /cmd_vel
+
+node_rate: 50 # [Herz]
+
